@@ -1,0 +1,1 @@
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=26.871591, 75.788172&radius=500&type=health&keyword=medical&key=AIzaSyCEUrmwKIQnLRm1a9nOGcgkhocAJtc4OeM

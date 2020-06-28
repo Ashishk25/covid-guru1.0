@@ -1,0 +1,33 @@
+.sidenav{
+    position: fixed;
+    height: 100%;
+    width: 90px;
+    z-index: 1;
+    align-items: center;
+    background-color: black;
+    overflow-x: hidden;
+}
+.navitem{
+    height: 70px;
+    width: 75px;
+    margin-bottom: 20px; 
+}
+
+.navicon{
+    height: 65px;
+    width: 85%;
+    padding: 10px;
+    align-self: center;
+}
+.navicon:hover{
+    height: 75px;
+    width: 90%;
+}
+.logo{
+    height: 70px;
+    width: 70px;
+    padding: 10px;
+}
+body{
+    margin: 0px;
+}

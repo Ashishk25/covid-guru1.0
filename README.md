@@ -3,7 +3,9 @@ As i have used some APIs in this project that are only free for development and 
 
 link-https://drive.google.com/file/d/1LZQMPDXeE4xz03KL8NNjAepECBoHqFfC/view?usp=sharing
 
-
+![alt text](https://github.com/Ashishk25/covid-guru1.0/blob/master/Screenshot%20(11).png?raw=true)
+![alt text](https://github.com/Ashishk25/covid-guru1.0/blob/master/Screenshot%20(2).png?raw=true)
+![alt text](https://github.com/Ashishk25/covid-guru1.0/blob/master/Screenshot%20(5).png?raw=true)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

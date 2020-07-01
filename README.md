@@ -4,6 +4,8 @@ As i have used some APIs in this project that are only free for development and 
 
 Video link-https://drive.google.com/file/d/1LZQMPDXeE4xz03KL8NNjAepECBoHqFfC/view?usp=sharing
 
+**Note: first icon on side bar is my brand logo representing my name ASHISH KUSHWAHA**
+
 **1)here you can find all the nearby necessities that are currently in operation as many of them may be closed due to lockdown. You can decide where to go**
 
 ![alt text](https://github.com/Ashishk25/covid-guru1.0/blob/master/Screenshot%20(11).png?raw=true)

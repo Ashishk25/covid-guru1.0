@@ -1,20 +1,27 @@
 # COVID GURU 1.0
 ## Working Demo Video 
-As i have used some APIs in this project that are only free for development and testing hence this still not hosted on actual server and running on Local server.
+As i have used some APIs in this project that are only free for development and testing hence this still not hosted on actual server and running on Local server.As making it live will require monthly payment to use those Apis.
 
 Video link-https://drive.google.com/file/d/1LZQMPDXeE4xz03KL8NNjAepECBoHqFfC/view?usp=sharing
 
 **Note: first icon on side bar is my brand logo representing my name ASHISH KUSHWAHA**
 
-**1)here you can find all the nearby necessities that are currently in operation as many of them may be closed due to lockdown. You can decide where to go**
+**1)here you can find all the nearby necessities that are currently in operation as many of them may be closed due to lockdown. You can decide where to go.
+here i have used Google Apis like
+a)Google maps Api
+b)Google places Api
+c)Google geolocation Api**
 
 ![alt text](https://github.com/Ashishk25/covid-guru1.0/blob/master/Screenshot%20(11).png?raw=true)
 
-**2)here you can have all details about present situation of corona virus in the WORLD.**
+**2)here you can have all details about present situation of corona virus in the WORLD.
+->This is Real time data
+->It shows both Global and Country wise data
+->Interactive design**
 
 ![alt text](https://github.com/Ashishk25/covid-guru1.0/blob/master/Screenshot%20(2).png?raw=true)
 
-**3)here you can get all the latest updates and top headlines from top media sources like TIMES OF INDIA , HINDUSTAN TIMES , NDTV NEWS.**
+**3)here you can get all the latest updates and top headlines from top media sources like TIMES OF INDIA , HINDUSTAN TIMES , NDTV NEWS. If you need too read more about the article then just click on it and it will navigates you to the official site from where this data is fetched.**
 
 ![alt text](https://github.com/Ashishk25/covid-guru1.0/blob/master/Screenshot%20(5).png?raw=true)
 

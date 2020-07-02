@@ -4,7 +4,7 @@ As i have used some APIs in this project that are only free for development and 
 
 Video link-https://drive.google.com/file/d/1LZQMPDXeE4xz03KL8NNjAepECBoHqFfC/view?usp=sharing
 
-**Note: first icon on side bar is my brand logo representing my name ASHISH KUSHWAHA**
+**Note: first icon on side bar is my brand logo representing my name ASHISH KUSHWAHA**\
 For creating this project i have used following tools\
 **-> React hooks\
 -> React Router\

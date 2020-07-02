@@ -5,23 +5,29 @@ As i have used some APIs in this project that are only free for development and 
 Video link-https://drive.google.com/file/d/1LZQMPDXeE4xz03KL8NNjAepECBoHqFfC/view?usp=sharing
 
 **Note: first icon on side bar is my brand logo representing my name ASHISH KUSHWAHA**
+For creating this project i have used following tools\
+**-> React hooks\
+-> React Router\
+-> Tachyons (similar to Bootstrap)**
 
 **1)here you can find all the nearby necessities that are currently in operation as many of them may be closed due to lockdown. You can decide where to go.
-here i have used Google Apis like
-a)Google maps Api
-b)Google places Api
+Google Apis i have used are:\
+a)Google maps Api\
+b)Google places Api\
 c)Google geolocation Api**
 
 ![alt text](https://github.com/Ashishk25/covid-guru1.0/blob/master/Screenshot%20(11).png?raw=true)
 
-**2)here you can have all details about present situation of corona virus in the WORLD.
-->This is Real time data
-->It shows both Global and Country wise data
-->Interactive design**
+**2)here you can have all details about present situation of corona virus in the WORLD.\
+->This is Real time data\
+->It shows both Global and Country wise data\
+->Interactive design\
+->Made using Material-ui.io library**
 
 ![alt text](https://github.com/Ashishk25/covid-guru1.0/blob/master/Screenshot%20(2).png?raw=true)
 
-**3)here you can get all the latest updates and top headlines from top media sources like TIMES OF INDIA , HINDUSTAN TIMES , NDTV NEWS. If you need too read more about the article then just click on it and it will navigates you to the official site from where this data is fetched.**
+**3)here you can get all the latest updates and top headlines from top media sources like TIMES OF INDIA , HINDUSTAN TIMES , NDTV NEWS.\
+If you need to read more about the article then just click on it and it will navigates you to the official site from where this data is fetched.**
 
 ![alt text](https://github.com/Ashishk25/covid-guru1.0/blob/master/Screenshot%20(5).png?raw=true)
 
